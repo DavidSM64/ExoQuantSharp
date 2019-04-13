@@ -124,7 +124,7 @@ The main reason I use this library is to reduce the number of colors of an image
 
 ExoQuantSharp (ExoQuant v0.7)
 
-Copyright (c) 2019 David Benepe
+Copyright (c) 2019 David Benepe\
 Copyright (c) 2004 Dennis Ranke
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
