@@ -9,6 +9,9 @@ ExoQuant is a high-quality, easy to use color quantization library. This is for 
 * Creation of a shared palette for more than one image (or mipmap level)
 * Dithering of the reduced image with very little noise
 
+Other versions:\
+Javascript - https://github.com/DavidSM64/ExoQuantJS
+
 ## Usage:
 
 First, of course, you need to import the library:
