@@ -11,7 +11,8 @@ ExoQuant is a high-quality, easy to use color quantization library. This is for 
 
 Other versions:\
 Javascript - https://github.com/DavidSM64/ExoQuantJS \
-VB.NET - https://github.com/DavidSM64/ExoQuantVB
+VB.NET - https://github.com/DavidSM64/ExoQuantVB \
+Python - https://github.com/DavidSM64/ExoQuantPY
 
 ## Usage:
 
